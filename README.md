@@ -10,4 +10,4 @@ In this article we are going to build a Medium.com clone using these technologie
 ..* MongoDB
 ..* Expressjs
 
-by [Krissanawat Kaewsanmuang]("https://codeburst.io/@krissanawat")
+by [Krissanawat Kaewsanmuang](https://codeburst.io/@krissanawat)
