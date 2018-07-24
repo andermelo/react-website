@@ -1,6 +1,10 @@
-# react website
+# clone Medium.com
 
-website padrao com react
+In this article we are going to build a Medium.com clone using these technologies:
 
-Referência:
-
+Reactjs
+Redux
+Nodejs
+Cloudinary
+MongoDB
+Expressjs
