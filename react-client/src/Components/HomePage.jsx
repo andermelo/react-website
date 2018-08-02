@@ -50,9 +50,7 @@ class HomePage extends Component {
 									<li><a href="#" class="icon fa-github"><span class="label">GitHub</span></a></li>
 								</ul>
 					</article>
-          
         </div>
-
     )
   }
 }
