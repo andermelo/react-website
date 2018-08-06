@@ -6,4 +6,3 @@ code by [@pa87901](https://github.com/pa87901) in tutorial [Getting started on b
 Template by [html5up.net](https://html5up.net/)
 
 ![](https://html5up.net/uploads/images/dimension.jpg)
-
