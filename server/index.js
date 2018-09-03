@@ -12,5 +12,5 @@ app.get('*', (req, res) =>{
 });
 
 app.listen(PORT, () => {
-   console.log('listening on port ${PORT} ! ');
+   console.log('Servidor ativo na porta 8080');
 });
