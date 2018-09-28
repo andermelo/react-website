@@ -1,4 +1,4 @@
-# Simple website with React
+# Website with React
 
 ![](https://html5up.net/uploads/images/dimension.jpg)
 Template by [html5up.net](https://html5up.net/)
