@@ -12,5 +12,5 @@ app.get('*', (req, res) =>{
 });
 
 app.listen(PORT, () => {
-   console.log('Servidor ativo na porta 8080');
+   console.log('Servidor rodando cuzao, você pode acessar pela porta 8080. Link: http://localhost:8080/');
 });
