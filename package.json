@@ -35,6 +35,8 @@
     "connect-multiparty": "^2.1.1",
     "cors": "^2.8.4",
     "express": "^4.16.3",
+    "graphql": "^14.0.2",
+    "graphql-api-koa": "^2.0.0",
     "helmet": "^3.13.0",
     "mongoose": "^5.2.5",
     "react": "^16.4.1",
