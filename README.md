@@ -3,7 +3,7 @@
 ![](https://html5up.net/uploads/images/dimension.jpg)
 Template by [html5up.net](https://html5up.net/)
 
-## Project Setup
+## Project Setup!
 
 1. Clone the Project - `git clone https://github.com/andermelo/react-website/`
 1. Go into the directory where the project now lives - `cd react-website`
